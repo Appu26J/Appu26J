@@ -1,5 +1,5 @@
 # Hey! 👋
-- 🔭 I’m currently working on: Nothing lol
+- 🔭 I’m currently working on: nothing lol
 - 🌱 I’m currently learning: Java
 - 📫 My Discord: appu26j
 
